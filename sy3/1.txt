@@ -1,0 +1,5 @@
+( ) a b d
+S A
+S
+S->a|b|(A)
+A->SdA|S

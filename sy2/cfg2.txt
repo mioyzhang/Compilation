@@ -1,0 +1,9 @@
++ - * / ( ) i ε
+E T G F S
+E
+E->TG
+G->+TG|-TG|ε
+T->FS
+S->*FS|/FS|ε
+F->(E)
+F->i
