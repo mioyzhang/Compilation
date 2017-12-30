@@ -169,5 +169,3 @@ if Gs.check_opg():
     Gs.show_table()
 else:
     print '该文法不是算符优先文法'
-
-import this
